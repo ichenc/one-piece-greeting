@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+_tmpimg/
+.cache/
+
+# 本地效果预览页（GitHub 仓库里的 README.md 本身就是成品）
+preview.html
+
+# WorkBuddy 本地项目数据，不推到公开仓库
+.workbuddy/
